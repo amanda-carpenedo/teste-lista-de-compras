@@ -4,7 +4,7 @@ body {
 
 .titulo {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color: rgb(233, 113, 53);
+    color: rgb(231, 142, 98);
     -webkit-text-stroke-color: black;
     -webkit-text-stroke-width: 1px;
     text-align: center;
@@ -50,7 +50,7 @@ th {
 }
 
 td {
-    background-color: rgb(233, 113, 53);
+    background-color: rgb(243, 143, 94);
     color: aliceblue;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 
